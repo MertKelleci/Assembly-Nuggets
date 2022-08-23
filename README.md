@@ -1,5 +1,21 @@
 # Assembly Nuggets
 
+**Table of Contents:**
+
+1.  [What are these applications](#what-are-these-applications)
+1.  [What do they do](#what-do-they-do)
+    1.  [Amount of 1's](#amount-of-1s)
+    1.  [Array Rearrangement](#array-rearrangement)
+    1.  [Array Value - Index](#array-value---index)
+    1.  [Copy Array Reversed](#copy-array-reversed)
+    1.  [Copy Array](#copy-array)
+    1.  [DIY Loop](#diy-loop)
+    1.  [Print Screen](#print-screen)
+    1.  [Remove Spaces](#remove-spaces)
+    1.  [Text Reversed](#text-reversed)
+    1.  [To Upper Case](#to-upper-case)
+    1.  [Word Cube](#word-cube)
+
 ## What Are These Applications
 
 These applications are some basic cunks of functions that I've coded to learn Assembly language. Since they are only so small, I've decided to push them all together.
